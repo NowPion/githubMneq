@@ -1,0 +1,6 @@
+E:\bianchen\c#语言\Newstar\bin\Debug\Newstar.dll
+E:\bianchen\c#语言\Newstar\bin\Debug\Newstar.pdb
+E:\bianchen\c#语言\Newstar\obj\Debug\Newstar.csproj.AssemblyReference.cache
+E:\bianchen\c#语言\Newstar\obj\Debug\Newstar.csproj.CoreCompileInputs.cache
+E:\bianchen\c#语言\Newstar\obj\Debug\Newstar.dll
+E:\bianchen\c#语言\Newstar\obj\Debug\Newstar.pdb

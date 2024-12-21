@@ -1,0 +1,15 @@
+E:\bianchen\c#语言\CCTV20230901\EFcore\bin\Debug\net5.0\EFcore.deps.json
+E:\bianchen\c#语言\CCTV20230901\EFcore\bin\Debug\net5.0\EFcore.runtimeconfig.json
+E:\bianchen\c#语言\CCTV20230901\EFcore\bin\Debug\net5.0\EFcore.runtimeconfig.dev.json
+E:\bianchen\c#语言\CCTV20230901\EFcore\bin\Debug\net5.0\EFcore.dll
+E:\bianchen\c#语言\CCTV20230901\EFcore\bin\Debug\net5.0\ref\EFcore.dll
+E:\bianchen\c#语言\CCTV20230901\EFcore\bin\Debug\net5.0\EFcore.pdb
+E:\bianchen\c#语言\CCTV20230901\EFcore\obj\Debug\net5.0\EFcore.csproj.AssemblyReference.cache
+E:\bianchen\c#语言\CCTV20230901\EFcore\obj\Debug\net5.0\EFcore.GeneratedMSBuildEditorConfig.editorconfig
+E:\bianchen\c#语言\CCTV20230901\EFcore\obj\Debug\net5.0\EFcore.AssemblyInfoInputs.cache
+E:\bianchen\c#语言\CCTV20230901\EFcore\obj\Debug\net5.0\EFcore.AssemblyInfo.cs
+E:\bianchen\c#语言\CCTV20230901\EFcore\obj\Debug\net5.0\EFcore.csproj.CoreCompileInputs.cache
+E:\bianchen\c#语言\CCTV20230901\EFcore\obj\Debug\net5.0\EFcore.dll
+E:\bianchen\c#语言\CCTV20230901\EFcore\obj\Debug\net5.0\ref\EFcore.dll
+E:\bianchen\c#语言\CCTV20230901\EFcore\obj\Debug\net5.0\EFcore.pdb
+E:\bianchen\c#语言\CCTV20230901\EFcore\obj\Debug\net5.0\EFcore.genruntimeconfig.cache

@@ -1,0 +1,821 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\CCTV20240901\\2024\\CCTV20230901\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72BE2464-4A1D-4BC4-9C0E-A2CA59B2E186}|..\\winformDity\\winformDity.csproj|h:\\cctv20240901\\2024\\winformdity\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BE2464-4A1D-4BC4-9C0E-A2CA59B2E186}|..\\winformDity\\winformDity.csproj|h:\\cctv20240901\\2024\\winformdity\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BE2464-4A1D-4BC4-9C0E-A2CA59B2E186}|..\\winformDity\\winformDity.csproj|h:\\cctv20240901\\2024\\winformdity\\permissionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BE2464-4A1D-4BC4-9C0E-A2CA59B2E186}|..\\winformDity\\winformDity.csproj|h:\\cctv20240901\\2024\\winformdity\\productchooseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BE2464-4A1D-4BC4-9C0E-A2CA59B2E186}|..\\winformDity\\winformDity.csproj|h:\\cctv20240901\\2024\\winformdity\\purchasedateoperateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BE2464-4A1D-4BC4-9C0E-A2CA59B2E186}|..\\winformDity\\winformDity.csproj|h:\\cctv20240901\\2024\\winformdity\\purchasemasterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BE2464-4A1D-4BC4-9C0E-A2CA59B2E186}|..\\winformDity\\winformDity.csproj|h:\\cctv20240901\\2024\\winformdity\\salesmanchooseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BE2464-4A1D-4BC4-9C0E-A2CA59B2E186}|..\\winformDity\\winformDity.csproj|h:\\cctv20240901\\2024\\winformdity\\supplierchooseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BE2464-4A1D-4BC4-9C0E-A2CA59B2E186}|..\\winformDity\\winformDity.csproj|h:\\cctv20240901\\2024\\winformdity\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BE2464-4A1D-4BC4-9C0E-A2CA59B2E186}|..\\winformDity\\winformDity.csproj|h:\\cctv20240901\\2024\\winformdity\\deliverymasterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDE61F9-C299-4A87-A4FA-53280377841A}|EFcore\\EFcore.csproj|h:\\cctv20240901\\2024\\cctv20230901\\efcore\\efcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6BDE61F9-C299-4A87-A4FA-53280377841A}|EFcore\\EFcore.csproj|solutionrelative:efcore\\efcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|winformDity||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\NewPront.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\bianchen\\c#\u8BED\u8A00\\winformdity\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\Commodity\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\bianchen\\c#\u8BED\u8A00\\winformdity\\customerchoosefrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\bianchen\\c#\u8BED\u8A00\\winformdity\\deliverymasterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\bianchen\\c#\u8BED\u8A00\\commodity\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\ProductDao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\DaoBeng\\DataReaderHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\Models\\DeliveryDetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\UserDao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\bianchen\\c#\u8BED\u8A00\\winformdity\\salesmanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\Models\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\Models\\SupplierBusiReport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\Models\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\Models\\DeliveryMaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\bianchen\\c#\u8BED\u8A00\\winformdity\\productchooseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\bianchen\\c#\u8BED\u8A00\\winformdity\\permissionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\RoleDao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\RoleActionDao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\PurchaseDetailDao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\SalesManChooseForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\PurchaseMasterDao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\DaoBeng\\DB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\WinActionDao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\UserRoleDao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\bianchen\\c#\u8BED\u8A00\\winformdity\\salesmanchooseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\Newstar\\Products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\Models\\Actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\bianchen\\c#\u8BED\u8A00\\winformdity\\supplierchooseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\bianchen\\c#\u8BED\u8A00\\winformdity\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\bianchen\\c#\u8BED\u8A00\\winformdity\\purchasedateoperateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\bianchen\\c#\u8BED\u8A00\\winformdity\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\bianchen\\c#\u8BED\u8A00\\winformdity\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\bianchen\\c#\u8BED\u8A00\\winformdity\\deliverydateoperateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\NewBLL\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\NewBLL\\SupplierService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\Models\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\bianchen\\c#\u8BED\u8A00\\winformdity\\supplierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\SupplierDao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\DeliveryMasterDao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\CusomerDao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\Newstar\\DataReaderHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bianchen\\c#\u8BED\u8A00\\NewBLL\\CustomerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "H:\\CCTV20240901\\2024\\winformDity\\App.config",
+              "RelativeDocumentMoniker": "..\\winformDity\\App.config",
+              "ToolTip": "H:\\CCTV20240901\\2024\\winformDity\\App.config",
+              "RelativeToolTip": "..\\winformDity\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-14T15:55:35.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "H:\\CCTV20240901\\2024\\winformDity\\LoginForm.cs",
+              "RelativeDocumentMoniker": "..\\winformDity\\LoginForm.cs",
+              "ToolTip": "H:\\CCTV20240901\\2024\\winformDity\\LoginForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\winformDity\\LoginForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:40:49.588Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PermissionsForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "H:\\CCTV20240901\\2024\\winformDity\\PermissionsForm.cs",
+              "RelativeDocumentMoniker": "..\\winformDity\\PermissionsForm.cs",
+              "ToolTip": "H:\\CCTV20240901\\2024\\winformDity\\PermissionsForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\winformDity\\PermissionsForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:40:48.665Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductChooseForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "H:\\CCTV20240901\\2024\\winformDity\\ProductChooseForm.cs",
+              "RelativeDocumentMoniker": "..\\winformDity\\ProductChooseForm.cs",
+              "ToolTip": "H:\\CCTV20240901\\2024\\winformDity\\ProductChooseForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\winformDity\\ProductChooseForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:40:46.756Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PurchaseMasterForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "H:\\CCTV20240901\\2024\\winformDity\\PurchaseMasterForm.cs",
+              "RelativeDocumentMoniker": "..\\winformDity\\PurchaseMasterForm.cs",
+              "ToolTip": "H:\\CCTV20240901\\2024\\winformDity\\PurchaseMasterForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\winformDity\\PurchaseMasterForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:40:33.712Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PurchaseDateOperateForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "H:\\CCTV20240901\\2024\\winformDity\\PurchaseDateOperateForm.cs",
+              "RelativeDocumentMoniker": "..\\winformDity\\PurchaseDateOperateForm.cs",
+              "ToolTip": "H:\\CCTV20240901\\2024\\winformDity\\PurchaseDateOperateForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\winformDity\\PurchaseDateOperateForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:40:33.229Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SupplierChooseForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "H:\\CCTV20240901\\2024\\winformDity\\SupplierChooseForm.cs",
+              "RelativeDocumentMoniker": "..\\winformDity\\SupplierChooseForm.cs",
+              "ToolTip": "H:\\CCTV20240901\\2024\\winformDity\\SupplierChooseForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\winformDity\\SupplierChooseForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:40:26.158Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SalesManChooseForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "H:\\CCTV20240901\\2024\\winformDity\\SalesManChooseForm.cs",
+              "RelativeDocumentMoniker": "..\\winformDity\\SalesManChooseForm.cs",
+              "ToolTip": "H:\\CCTV20240901\\2024\\winformDity\\SalesManChooseForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\winformDity\\SalesManChooseForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:40:22.752Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "H:\\CCTV20240901\\2024\\winformDity\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "..\\winformDity\\CustomerForm.cs",
+              "ToolTip": "H:\\CCTV20240901\\2024\\winformDity\\CustomerForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\winformDity\\CustomerForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:39:36.297Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeliveryMasterForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "H:\\CCTV20240901\\2024\\winformDity\\DeliveryMasterForm.cs",
+              "RelativeDocumentMoniker": "..\\winformDity\\DeliveryMasterForm.cs",
+              "ToolTip": "H:\\CCTV20240901\\2024\\winformDity\\DeliveryMasterForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\winformDity\\DeliveryMasterForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:39:19.779Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NewPront.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\NewPront.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\NewPront.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:09:21.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\Commodity\\Program.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\Commodity\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:53:31.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EFcore.csproj",
+              "DocumentMoniker": "H:\\CCTV20240901\\2024\\CCTV20230901\\EFcore\\EFcore.csproj",
+              "RelativeDocumentMoniker": "EFcore\\EFcore.csproj",
+              "ToolTip": "H:\\CCTV20240901\\2024\\CCTV20230901\\EFcore\\EFcore.csproj",
+              "RelativeToolTip": "EFcore\\EFcore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T04:20:11.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\Program.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:53:56.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductDao.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\ProductDao.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\ProductDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:34:46.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DataReaderHelper.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\DaoBeng\\DataReaderHelper.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\DaoBeng\\DataReaderHelper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:56:02.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DeliveryDetail.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\Models\\DeliveryDetail.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\Models\\DeliveryDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:56:52.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\App.config",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-01T02:56:25.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserDao.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\UserDao.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\UserDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:34:29.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\Models\\packages.config",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\Models\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-01T13:50:10.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SupplierBusiReport.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\Models\\SupplierBusiReport.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\Models\\SupplierBusiReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:50:35.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\Models\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\Models\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:50:49.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DeliveryMaster.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\Models\\DeliveryMaster.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\Models\\DeliveryMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:54:20.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RoleDao.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\RoleDao.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\RoleDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:34:34.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RoleActionDao.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\RoleActionDao.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\RoleActionDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:34:35.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PurchaseDetailDao.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\PurchaseDetailDao.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\PurchaseDetailDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:34:40.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\packages.config",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-01T13:06:33.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SalesManChooseForm.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\SalesManChooseForm.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\SalesManChooseForm.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:25:32.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PurchaseMasterDao.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\PurchaseMasterDao.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\PurchaseMasterDao.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:55:54.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DB.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\DaoBeng\\DB.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\DaoBeng\\DB.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwC8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:56:04.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "WinActionDao.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\WinActionDao.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\WinActionDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvx4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:55:59.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserRoleDao.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\UserRoleDao.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\UserRoleDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:55:58.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Products.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\Newstar\\Products.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\Newstar\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:54:59.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\Models\\User.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvyAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:24:54.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Actions.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\Models\\Actions.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\Models\\Actions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:54:19.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\LoginForm.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\LoginForm.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA+wEUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:55:15.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\NewBLL\\UserService.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\NewBLL\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:57:18.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SupplierService.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\NewBLL\\SupplierService.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\NewBLL\\SupplierService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:57:00.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\Models\\Customer.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\Models\\Customer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:56:47.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "SupplierDao.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\SupplierDao.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\SupplierDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:55:55.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DeliveryMasterDao.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\DeliveryMasterDao.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\DeliveryMasterDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:55:52.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CusomerDao.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\CusomerDao.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\NewDAL\\Dao\\CusomerDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:55:51.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "DataReaderHelper.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\Newstar\\DataReaderHelper.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\Newstar\\DataReaderHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:54:40.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\NewBLL\\CustomerService.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\NewBLL\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:54:09.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\MainForm.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\MainForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:55:09.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerChooseFrom.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\CustomerChooseFrom.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\CustomerChooseFrom.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:02:13.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DeliveryMasterForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\DeliveryMasterForm.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\DeliveryMasterForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:55:13.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\Commodity\\Form1.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\Commodity\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:53:27.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "winformDity",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\winformDity.csproj",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\winformDity.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-01T02:56:23.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SalesManForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\SalesManForm.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\SalesManForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:41:44.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductChooseForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\ProductChooseForm.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\ProductChooseForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:02:25.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PermissionsForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\PermissionsForm.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\PermissionsForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:02:22.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SalesManChooseForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\SalesManChooseForm.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\SalesManChooseForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:25:29.647Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SupplierChooseForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\SupplierChooseForm.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\SupplierChooseForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:53:09.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ProductForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\ProductForm.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\ProductForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:02:27.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PurchaseDateOperateForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\PurchaseDateOperateForm.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\PurchaseDateOperateForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:02:31.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LoginForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\LoginForm.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\LoginForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:53:44.58Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CustomerForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\CustomerForm.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\CustomerForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:02:12.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DeliveryDateOperateForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\DeliveryDateOperateForm.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\DeliveryDateOperateForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:02:11.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SupplierForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\SupplierForm.cs",
+              "ToolTip": "E:\\bianchen\\c#\u8BED\u8A00\\winformDity\\SupplierForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:53:09.189Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

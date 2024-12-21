@@ -1,0 +1,6 @@
+E:\bianchen\c#语言\Models\bin\Debug\Models.dll
+E:\bianchen\c#语言\Models\bin\Debug\Models.pdb
+E:\bianchen\c#语言\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+E:\bianchen\c#语言\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+E:\bianchen\c#语言\Models\obj\Debug\Models.dll
+E:\bianchen\c#语言\Models\obj\Debug\Models.pdb

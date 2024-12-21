@@ -1,0 +1,7 @@
+E:\bianchen\c#语言\CCTV20230901\bin\Debug\CCTV20230901.exe.config
+E:\bianchen\c#语言\CCTV20230901\bin\Debug\CCTV20230901.exe
+E:\bianchen\c#语言\CCTV20230901\bin\Debug\CCTV20230901.pdb
+E:\bianchen\c#语言\CCTV20230901\obj\Debug\CCTV20230901.csproj.AssemblyReference.cache
+E:\bianchen\c#语言\CCTV20230901\obj\Debug\CCTV20230901.csproj.CoreCompileInputs.cache
+E:\bianchen\c#语言\CCTV20230901\obj\Debug\CCTV20230901.exe
+E:\bianchen\c#语言\CCTV20230901\obj\Debug\CCTV20230901.pdb
